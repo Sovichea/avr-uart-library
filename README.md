@@ -1,1 +1,2 @@
-# avr-uart-library
+# UART Library for AVR
+
